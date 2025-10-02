@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react';
 import Flow from '../Components/Flow';
-import Sidebar from '../Components/sidebar';
+import Sidebar from '../Components/Sidebar';
 import Navbar from '../Components/Navbar';
 import TextUpdaterNode from '../Components/TextUpdaterNode';
 import {
